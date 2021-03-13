@@ -1,0 +1,3 @@
+Private int mul(int a, int b){
+Returnt a + b
+}
