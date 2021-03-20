@@ -1,0 +1,6 @@
+# ignore file
+bye.class
+.Ds_Store
+
+# ignore files with .class extension
+*.class
