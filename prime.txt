@@ -1,0 +1,3 @@
+Private boolean isPrime(int number) {
+Return true;
+}
