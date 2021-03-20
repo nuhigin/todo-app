@@ -1,3 +1,6 @@
 Private int div(int a, int b) {
+If (b == 0){
+  Throw new ArithmeticException();
+}
 Return a / b;
 }
