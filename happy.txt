@@ -1,0 +1,3 @@
+Private boolean ishappyNumber(int a) {
+Return true;
+}
